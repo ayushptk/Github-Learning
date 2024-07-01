@@ -58,7 +58,7 @@ f. push
       to navigate
 
   4. git checkout -b <new branch name>
-      it is used to cgreate a new branch
+      it is used to create a new branch
 
   5. git branch -d <branch name>
        it is used to delete a branch
