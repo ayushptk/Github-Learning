@@ -1,7 +1,7 @@
 
 # i am  learning  git and github 
 1. whenever we clone in github
-    syntax= git clone ( github https) link
+    syntax= git clone ( github https) link.
 
 2. whenever we move the file
     cd folder name
